@@ -4,7 +4,7 @@
 ## :sassy_man:  About me
 - 🌱 I’m currently learning Data science, python and C#
 - 🤝 I’m looking to collaborate on software development and mobile development
-- 📫 How to reach me: [kmilo0919@gmail.com](mailto:kmilo0919@gmail.com)
+- 📫 How to reach me: [jcvargas1909@gmail.com](mailto:jcvargas1909@gmail.com)
 - ⚡ Fun fact: Cristiano Ronaldo fan
 <br>
 
