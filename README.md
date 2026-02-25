@@ -1,83 +1,79 @@
-<h1 align="center">Hi 👋, I'm Camilo Vargas</h1>
-<h3 align="center">Software Developer | Machine Learning Enthusiast | Backend & AI</h3>
+<h1 align="center">Hi 👋, I'm Juan Camilo Vargas</h1>
+<h3 align="center">Software Engineer | Backend, Cloud & Data Systems</h3>
 
 ---
 
 ## 🚀 About Me
 
-💻 Software developer with strong interest in **Machine Learning, Backend Development, and AI solutions**.  
-🎓 Currently enrolled in a **Machine Learning Bootcamp**, expanding my knowledge in data science and intelligent systems.  
-📱 Experience exploring **mobile development with Flutter** and building backend architectures with Python.  
-⚙️ Interested in scalable systems, APIs, and message-driven architectures.
+💻 Software Engineer with experience building **scalable backend systems, cloud-native applications, and data-driven solutions**.
+I enjoy designing architectures that integrate services efficiently, process information reliably, and solve real-world problems from idea to production.
 
-- 🌱 Currently learning: Machine Learning, Data Science, Python, C#
-- 🔬 Exploring: AI applications, automation, and backend architectures
-- 🤝 Looking to collaborate on: Backend, AI, or Mobile projects
-- 📫 Contact: **jcvargas1909@gmail.com**
-- ⚡ Fun fact: Cristiano Ronaldo fan ⚽
+My experience includes:
+
+* Backend development with **Python (FastAPI, Django)**
+* **Cloud & DevOps** using AWS, Azure, Docker and CI/CD
+* **Data pipelines and ETL processes** for analytics and business intelligence
+* **Distributed systems and messaging architectures** (RabbitMQ, microservices)
+
+I am passionate about continuous learning, system design, and building reliable technology.
+
+📫 Contact: **[jcvargas1909@gmail.com](mailto:jcvargas1909@gmail.com)**
 
 ---
 
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Languages
-- Python
-- C#
-- Dart
-- JavaScript
 
-### ⚙️ Technologies & Tools
-- Flutter
-- Git & GitHub
-- REST APIs
-- RabbitMQ
-- Linux
-- Docker (basic knowledge)
+Python · Java · JavaScript · Kotlin
 
-### 📊 Areas of Interest
-- Machine Learning
-- Backend Development
-- Artificial Intelligence
-- Data Processing
-- Automation
+### ⚙️ Backend & Architecture
+
+FastAPI · Django · REST APIs · Microservices · RabbitMQ · System Design
+
+### 📊 Data & Databases
+
+PostgreSQL · MySQL · MongoDB · Oracle · Amazon Redshift · ETL Pipelines
+
+### ☁️ Cloud & DevOps
+
+AWS · Azure · Docker · Terraform · GitHub Actions · CI/CD
+
+---
+
+## ⭐ Featured Projects
+
+🚀 **SendInvoice**
+Automated payment receipt delivery system with cloud infrastructure and messaging integration.
+Stack: Python, Django, AWS, Docker, CI/CD
 
 ---
 
 ## 📈 Current Focus
 
-- Machine Learning projects
-- Backend systems with Python
-- Message queues and scalable architectures
-- AI-powered applications
+* Scalable backend systems
+* Cloud-native architectures
+* Data engineering & processing pipelines
+* Distributed systems
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Camilo Github Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Camilo1909&show_icons=true&count_private=true&theme=algolia" 
-         height="192px"/>
-  </a>
-
+  <img alt="Juan Github Stats" 
+       src="https://github-readme-stats.vercel.app/api?username=Camilo1909&show_icons=true&count_private=true&theme=algolia" 
+       height="180px"/>
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilo1909&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" 
-       alt="Camilo1909" 
-       height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilo1909&langs_count=8&layout=compact&theme=algolia" 
+       height="180px"/>
 </p>
 
 ---
 
-## ⚡ Recent GitHub Activity
+## ⚡ Philosophy
 
-<p align="center">
-  <a href="https://github.com/Camilo1909">
-    <img alt="Camilo Activity Graph" 
-         src="https://activity-graph.herokuapp.com/graph?username=Camilo1909&theme=react-dark" />
-  </a>
-</p>
+> “Good engineering is not only about code — it's about designing systems that scale, evolve, and create impact.”
 
 ---
 
