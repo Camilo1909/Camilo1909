@@ -58,19 +58,6 @@ Stack: Python, Django, AWS, Docker, CI/CD
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img alt="Juan Github Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=Camilo1909&show_icons=true&count_private=true&theme=algolia" 
-       height="180px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camilo1909&langs_count=8&layout=compact&theme=algolia" 
-       height="180px"/>
-</p>
-
----
-
 ## ⚡ Philosophy
 
 > “Good engineering is not only about code — it's about designing systems that scale, evolve, and create impact.”
